@@ -50,28 +50,24 @@ Apr 2025 – Present
 
 ## Projects
 
-### Kubernetes CI/CD Project
+#### Kubernetes CI/CD Project
 - Containerized application using Docker
 - Deployed on Kubernetes
 - Automated deployment using GitHub Actions
 
-### AWS Infrastructure Automation
+#### AWS Infrastructure Automation
 - Provisioned EC2, VPC, Security Groups using Terraform
 - Managed infrastructure as code
 
-### Monitoring Stack
+#### Monitoring Stack
 - Configured Prometheus and Grafana
 - Created dashboards and alerts
 
-## Certifications
-- AWS Cloud Practitioner (Pursuing)
-- Kubernetes Fundamentals
-
 ## Certifications 
-Introduction to AWS Certification 
-Getting Started with DevOps on AWS
-AWS Cloud Practitioner Essentials
-Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
+ - Introduction to AWS Certification 
+ - Getting Started with DevOps on AWS
+ - AWS Cloud Practitioner Essentials
+ - Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
 
 ## Resume
 
