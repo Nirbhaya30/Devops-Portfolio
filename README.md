@@ -64,7 +64,7 @@ Apr 2025 – Present
 - Created dashboards and alerts
 
 ## Certifications 
- - Introduction to AWS Certification ([view] ())
+ - Introduction to AWS Certification ([view] (https://github.com/Nirbhaya30/Devops-Portfolio/blob/9027c21dbfc1a5c07dfa97f91ab4979bde42cc89/Introduction%20to%20AWS%20Certification.pdf))
  - Getting Started with DevOps on AWS
  - AWS Cloud Practitioner Essentials AWS Cloud Practitioner.pdf
  - Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
