@@ -1,10 +1,15 @@
 # Devops-Portfolio
 # Nirbhaya Gunjal - Devops Engineer
  (Serving notice Period, LWD – 26th June 2026, Availability: Immediate, from 29th June 2026)
+ 
  📍 Pune, India
+ 
  📧 nirbhyagunjal@gmail.com
+ 
  📞 +91 8766643775
+ 
  🔗 LinkedIn: https://www.linkedin.com/in/nirbhaya-gunjal-5419b6207/
+ 
  🐙 GitHub: https://github.com/Nirbhaya30
 
  ## Professional Summary 
@@ -70,7 +75,7 @@ Apr 2025 – Present
  - Domain 3 Review: AWS Certified Cloud Practitioner CLF-C02 ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/a84e514193adb6d659443375dae182b1bb64024a/Domain%203%20Review%20AWS%20Certified.pdf))
 
 ## Resume
-([Download Resume](
+([Download Resume](https://github.com/Nirbhaya30/Devops-Portfolio/blob/47ed4b44524b4ca461fd96b42dfa676ebff89dd2/Nirbhaya_Gunjal.pdf))
 
 ## Career Interests
 
