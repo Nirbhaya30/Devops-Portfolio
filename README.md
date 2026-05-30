@@ -67,6 +67,14 @@ Apr 2025 – Present
 - AWS Cloud Practitioner (Pursuing)
 - Kubernetes Fundamentals
 
-## Connect
-LinkedIn: Your LinkedIn URL
-Email: nirbhaya@manufyn.com
+## Certifications 
+### Introduction to AWS Certification 
+### Getting Started with DevOps on AWS
+### AWS Cloud Practitioner Essentials
+### Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
+
+## Resume
+
+## Career Interests
+
+DevOps Engineering Cloud Infrastructure & Platform Engineering Kubernetes & Container Platforms CI/CD & Automation Site Reliability Engineering (SRE) Cloud Security & Scalability
