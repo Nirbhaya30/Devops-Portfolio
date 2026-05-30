@@ -68,10 +68,10 @@ Apr 2025 – Present
 - Kubernetes Fundamentals
 
 ## Certifications 
-### Introduction to AWS Certification 
-### Getting Started with DevOps on AWS
-### AWS Cloud Practitioner Essentials
-### Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
+Introduction to AWS Certification 
+Getting Started with DevOps on AWS
+AWS Cloud Practitioner Essentials
+Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
 
 ## Resume
 
