@@ -66,7 +66,7 @@ Apr 2025 – Present
 ## Certifications 
  - Introduction to AWS Certification 
  - Getting Started with DevOps on AWS
- - AWS Cloud Practitioner Essentials AWS Cloud Practitioner.pdf
+ - AWS Cloud Practitioner Essentials https://github.com/Nirbhaya30/Devops-Portfolio/blob/88cc4f3b15d4cc9054e30eba8871e7fc6ea6e19c/AWS%20Cloud%20Practitioner.pdf
  - Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
 
 ## Resume
