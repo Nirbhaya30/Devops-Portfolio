@@ -7,7 +7,7 @@
  🔗 LinkedIn: https://www.linkedin.com/in/nirbhaya-gunjal-5419b6207/
  🐙 GitHub: https://github.com/Nirbhaya30
 
- ##professional Summary 
+ ## Professional Summary 
  Cloud Engineer with 1 year of hands-on experience in AWS cloud infrastructure, DevOps automation, CI/CD pipelines, 
  Infrastructure as Code, and Linux system administration. Skilled in deploying and managing scalable cloud 
  environments using Terraform, Docker, Jenkins, GitHub Actions, and Ansible. Experience in monitoring, automation, 
