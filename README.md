@@ -1,127 +1,76 @@
-# Hi, I'm Nirbhaya Gunjal
+# Devops-Portfolio
+# Nirbhaya Gunjal - Devops Engineer
+ (Serving notice Period, LWD – 26th June 2026, Availability: Immediate, from 29th June 2026)
+ 📍 Pune, India
+ 📧 nirbhyagunjal@gmail.com
+ 📞 +91 8766643775
+ 🔗 LinkedIn: https://www.linkedin.com/in/nirbhaya-gunjal-5419b6207/
+ 🐙 GitHub: https://github.com/Nirbhaya30
 
-Cloud & DevOps Engineer | AWS | Terraform | Docker | Kubernetes | Jenkins | GitHub Actions
+ ## Professional Summary 
+ Cloud Engineer with 1 year of hands-on experience in AWS cloud infrastructure, DevOps automation, CI/CD pipelines, 
+ Infrastructure as Code, and Linux system administration. Skilled in deploying and managing scalable cloud 
+ environments using Terraform, Docker, Jenkins, GitHub Actions, and Ansible. Experience in monitoring, automation, 
+ server provisioning, and troubleshooting production environments. 
 
-Pune, India
+## Skills
 
-Email: [nirbhyagunjal@gmail.com](mailto:nirbhyagunjal@gmail.com)
+* Cloud Platforms: Amazon Web Services (EC2, S3, IAM, VPC, Route 53, CloudWatch, Auto Scaling, Load Balancer)  
 
-LinkedIn: linkedin.com/in/nirbhaya-gunjal-5419b6207
+* DevOps Tools: Jenkins , Terraform , Ansible , Docker , Kubernetes , GitHub Actions  
 
-GitHub: github.com/Nirbhaya30
+* Version Control: Git , GitHub  
 
-## About Me
+* Operating Systems: Linux (Ubuntu, Amazon Linux)  
 
-Cloud Engineer with 1+ year of experience in AWS cloud infrastructure, CI/CD automation, Infrastructure as Code, and Linux administration. Experienced in building deployment pipelines, provisioning cloud resources, containerization, and automation using modern DevOps tools.
+* Monitoring & Logging: CloudWatch , Basic Prometheus and Grafana knowledge , Dynatrace , Splunk  
 
-Currently serving notice period.
-Available to join from 29 June 2026.
+* Troubleshooting and Debugging 
 
-## Technical Skills
+* Scripting: Bash Shell Scripting , Python Basics  
 
-### Cloud
+* Networking: TCP/IP , DNS , HTTP/HTTPS , Load Balancing , Security Groups , VPC
 
-* AWS EC2
-* S3
-* IAM
-* VPC
-* Route 53
-* CloudWatch
-* Auto Scaling
-* Elastic Load Balancer
+## Professional Experience 
 
-### DevOps & Automation
+Cloud Engineer 
 
-* Terraform
-* Jenkins
-* GitHub Actions
-* Ansible
-* Docker
-* Kubernetes
+Manufyn Pvt Ltd | Pune, India                                                                                                      
 
-### Version Control
+Apr 2025 – Present 
 
-* Git
-* GitHub
+• Managed AWS cloud infrastructure including EC2, S3, IAM, VPC, Route 53, and CloudWatch.  
+• Created Infrastructure as Code using Terraform for automated cloud provisioning.  
+• Built and maintained CI/CD pipelines using Jenkins and GitHub Actions.  
+• Deployed containerized applications using Docker.  
+• Assisted in Kubernetes cluster deployment and application monitoring.  
+• Worked with Linux servers for application deployment, troubleshooting, and patching.  
+• Managed Git repositories and collaborated using Git workflows.  
+• Reduced manual deployment efforts by automating infrastructure and deployment tasks.  
 
-### Operating Systems
+## Projects
 
-* Linux (Ubuntu, Amazon Linux)
+#### Kubernetes CI/CD Project
+- Containerized application using Docker
+- Deployed on Kubernetes
+- Automated deployment using GitHub Actions
 
-### Monitoring & Logging
+#### AWS Infrastructure Automation
+- Provisioned EC2, VPC, Security Groups using Terraform
+- Managed infrastructure as code
 
-* CloudWatch
-* Prometheus
-* Grafana
-* Dynatrace
-* Splunk
+#### Monitoring Stack
+- Configured Prometheus and Grafana
+- Created dashboards and alerts
 
-### Scripting
+## Certifications 
+ - Introduction to AWS Certification 
+ - Getting Started with DevOps on AWS
+ - AWS Cloud Practitioner Essentials AWS Cloud Practitioner.pdf
+ - Domain 3 Review: AWS Certified Cloud Practitioner (CLF-C02 - English)
 
-* Bash Shell Scripting
-* Python (Basic)
-
-### Networking
-
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-* Load Balancing
-* Security Groups
-* VPC Networking
-
-## Professional Experience
-
-### Cloud Engineer | Manufyn Pvt Ltd
-
-April 2025 – Present
-
-* Managed AWS cloud infrastructure across EC2, S3, IAM, VPC, Route 53, and CloudWatch.
-* Provisioned infrastructure using Terraform.
-* Built CI/CD pipelines using Jenkins and GitHub Actions.
-* Deployed and managed Docker-based applications.
-* Assisted in Kubernetes deployments and monitoring activities.
-* Performed Linux server administration, troubleshooting, and patch management.
-* Collaborated using Git workflows and version control best practices.
-
-## Featured Projects
-
-### Kubernetes CI/CD Pipeline
-
-* Dockerized application deployment
-* Kubernetes manifests and services
-* GitHub Actions automation
-* Rolling updates and deployment validation
-
-### AWS Infrastructure Automation
-
-* Terraform-based provisioning
-* VPC, EC2, Security Groups, IAM
-* Infrastructure as Code best practices
-
-### Monitoring Stack
-
-* Prometheus monitoring
-* Grafana dashboards
-* Alert configuration and visualization
-
-## Certifications
-
-* Introduction to AWS
-* Getting Started with DevOps on AWS
-* AWS Cloud Practitioner Essentials
-* AWS Certified Cloud Practitioner (CLF-C02) Domain Review
+## Resume
 
 ## Career Interests
 
-* DevOps Engineering
-* Cloud Infrastructure Engineering
-* Kubernetes Platforms
-* CI/CD Automation
-* Site Reliability Engineering (SRE)
-* Cloud Security
-* Platform Engineering
-
-## GitHub Statistics
-
-Explore my repositories to view hands-on projects related to AWS, Kubernetes, Terraform, Docker, Jenkins, GitHub Actions, Linux, and Cloud Automation.
+DevOps Engineering Cloud Infrastructure & Platform Engineering Kubernetes & Container Platforms CI/CD & Automation Site Reliability Engineering (SRE) Cloud Security & Scalability
