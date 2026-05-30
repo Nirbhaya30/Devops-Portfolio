@@ -67,8 +67,10 @@ Apr 2025 – Present
  - Introduction to AWS Certification ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/9027c21dbfc1a5c07dfa97f91ab4979bde42cc89/Introduction%20to%20AWS%20Certification.pdf))
  - Getting Started with DevOps on AWS ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/dbb861aaa9321a2ff96db08506eef54c74cb5453/Getting%20Started%20with%20DevOps.pdf))
  - AWS Cloud Practitioner Essentials ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/dbb861aaa9321a2ff96db08506eef54c74cb5453/AWS%20Cloud%20Practitioner.pdf))
- - Domain 3 Review: AWS Certified Cloud Practitioner CLF-C02 ([view](
+ - Domain 3 Review: AWS Certified Cloud Practitioner CLF-C02 ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/a84e514193adb6d659443375dae182b1bb64024a/Domain%203%20Review%20AWS%20Certified.pdf))
+
 ## Resume
+([Download Resume](
 
 ## Career Interests
 
