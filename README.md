@@ -2,15 +2,11 @@
 # Nirbhaya Gunjal - Devops Engineer
  (Serving notice Period, LWD – 26th June 2026, Availability: Immediate, from 29th June 2026)
  
- 📍 Pune, India
- 
- 📧 nirbhyagunjal@gmail.com
- 
- 📞 +91 8766643775
- 
- 🔗 LinkedIn: https://www.linkedin.com/in/nirbhaya-gunjal-5419b6207/
- 
- 🐙 GitHub: https://github.com/Nirbhaya30
+  📍 Pune, India
+  📧 nirbhyagunjal@gmail.com
+  📞 +91 8766643775
+  🔗 LinkedIn: https://www.linkedin.com/in/nirbhaya-gunjal-5419b6207/
+  🐙 GitHub: https://github.com/Nirbhaya30
 
  ## Professional Summary 
  Cloud Engineer with 1 year of hands-on experience in AWS cloud infrastructure, DevOps automation, CI/CD pipelines, 
