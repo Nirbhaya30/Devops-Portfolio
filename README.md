@@ -1,78 +1,165 @@
-# Devops-Portfolio
-# Nirbhaya Gunjal - Devops Engineer
- (Serving notice Period, LWD – 26th June 2026, Availability: Immediate, from 29th June 2026)
- 
-  📍 Pune, India
-  📧 nirbhyagunjal@gmail.com
-  📞 +91 8766643775
-  🔗 LinkedIn: https://www.linkedin.com/in/nirbhaya-gunjal-5419b6207/
-  🐙 GitHub: https://github.com/Nirbhaya30
+# Nirbhaya Gunjal
 
- ## Professional Summary 
- Cloud Engineer with 1 year of hands-on experience in AWS cloud infrastructure, DevOps automation, CI/CD pipelines, 
- Infrastructure as Code, and Linux system administration. Skilled in deploying and managing scalable cloud 
- environments using Terraform, Docker, Jenkins, GitHub Actions, and Ansible. Experience in monitoring, automation, 
- server provisioning, and troubleshooting production environments. 
+### 🚀 AWS DevOps Engineer | AWS Cloud | Kubernetes | EKS | CI/CD | SRE
 
-## Skills
+I'm an **AWS DevOps Engineer with 3+ years of experience** in cloud infrastructure, CI/CD automation, containerization, Kubernetes, Linux administration, and production deployments.
 
-* Cloud Platforms: Amazon Web Services (EC2, S3, IAM, VPC, Route 53, CloudWatch, Auto Scaling, Load Balancer)  
+I specialize in building and managing **secure, scalable, highly available AWS environments**, with hands-on experience supporting applications in the **Banking & Financial Services** and **Insurance** domains.
 
-* DevOps Tools: Jenkins , Terraform , Ansible , Docker , Kubernetes , GitHub Actions  
+---
 
-* Version Control: Git , GitHub  
+## 🧑‍💻 About Me
 
-* Operating Systems: Linux (Ubuntu, Amazon Linux)  
+- ☁️ AWS & DevOps Engineer with **3+ years of IT experience**
+- 🚀 Experienced in **AWS, Kubernetes, EKS, Docker, Jenkins, Terraform, and CI/CD**
+- 🔐 Strong knowledge of **AWS IAM, KMS, Secrets Manager, VPC, Security Groups & CloudTrail**
+- ⚙️ Experienced in **production deployments, automation, monitoring, incident management & troubleshooting**
+- 📈 Hands-on experience with **EKS scaling and Karpenter**
+- 💰 Experience with AWS infrastructure and cloud cost optimization
+- 🐧 Comfortable working with **Linux/Ubuntu environments**
+- 🛠️ Interested in **Cloud Engineering, DevOps, SRE, Infrastructure Automation & Kubernetes**
+- 📍 Pune, Maharashtra, India
 
-* Monitoring & Logging: CloudWatch , Basic Prometheus and Grafana knowledge , Dynatrace , Splunk  
+---
 
-* Troubleshooting and Debugging 
+## 🛠️ Tech Stack
 
-* Scripting: Bash Shell Scripting , Python Basics  
+### ☁️ Cloud — AWS
 
-* Networking: TCP/IP , DNS , HTTP/HTTPS , Load Balancing , Security Groups , VPC
+`EC2` `EKS` `ECS` `Fargate` `Lambda` `S3` `EBS` `EFS` `RDS` `DynamoDB`
 
-## Professional Experience 
+`VPC` `IAM` `KMS` `Secrets Manager` `Route 53` `CloudFront`
 
-Cloud Engineer 
+`ELB` `Auto Scaling` `CloudWatch` `CloudTrail` `API Gateway`
 
-Manufyn Pvt Ltd | Pune, India                                                                                                      
+`CloudFormation` `Athena` `Glacier` `ElastiCache / Redis`
 
-Apr 2025 – Present 
+### 🚀 DevOps & CI/CD
 
-• Managed AWS cloud infrastructure including EC2, S3, IAM, VPC, Route 53, and CloudWatch.  
-• Created Infrastructure as Code using Terraform for automated cloud provisioning.  
-• Built and maintained CI/CD pipelines using Jenkins and GitHub Actions.  
-• Deployed containerized applications using Docker.  
-• Assisted in Kubernetes cluster deployment and application monitoring.  
-• Worked with Linux servers for application deployment, troubleshooting, and patching.  
-• Managed Git repositories and collaborated using Git workflows.  
-• Reduced manual deployment efforts by automating infrastructure and deployment tasks.  
+`Jenkins` `Git` `GitHub` `Docker` `Kubernetes` `Terraform`
 
-## Projects
+`Maven` `Ansible` `Chef` `Shell Scripting` `Python` `Bash`
 
-#### Kubernetes CI/CD Project
-- Containerized application using Docker
-- Deployed on Kubernetes
-- Automated deployment using GitHub Actions
+### 📊 Monitoring & Observability
 
-#### AWS Infrastructure Automation
-- Provisioned EC2, VPC, Security Groups using Terraform
-- Managed infrastructure as code
+`AWS CloudWatch` `Dynatrace` `Grafana` `ELK Stack`
 
-#### Monitoring Stack
-- Configured Prometheus and Grafana
-- Created dashboards and alerts
+### 🖥️ Operating Systems
 
-## Certifications 
- - Introduction to AWS Certification ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/9027c21dbfc1a5c07dfa97f91ab4979bde42cc89/Introduction%20to%20AWS%20Certification.pdf))
- - Getting Started with DevOps on AWS ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/dbb861aaa9321a2ff96db08506eef54c74cb5453/Getting%20Started%20with%20DevOps.pdf))
- - AWS Cloud Practitioner Essentials ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/dbb861aaa9321a2ff96db08506eef54c74cb5453/AWS%20Cloud%20Practitioner.pdf))
- - Domain 3 Review: AWS Certified Cloud Practitioner CLF-C02 ([view](https://github.com/Nirbhaya30/Devops-Portfolio/blob/a84e514193adb6d659443375dae182b1bb64024a/Domain%203%20Review%20AWS%20Certified.pdf))
+`Linux` `Ubuntu` `Windows`
 
-## Resume
-([Download Resume](https://github.com/Nirbhaya30/Devops-Portfolio/blob/47ed4b44524b4ca461fd96b42dfa676ebff89dd2/Nirbhaya_Gunjal.pdf))
+---
 
-## Career Interests
+## 💼 Professional Experience
 
-DevOps Engineering Cloud Infrastructure & Platform Engineering Kubernetes & Container Platforms CI/CD & Automation Site Reliability Engineering (SRE) Cloud Security & Scalability
+### AWS / DevOps Engineer — Code Icons Technology
+
+**July 2023 – April 2025**
+
+**Client:** Axis Bank  
+**Project:** Banking Application
+
+Worked as an **AWS/DevOps/SRE Engineer** supporting secure, scalable and highly available banking applications.
+
+### Key Responsibilities
+
+- Managed AWS infrastructure for a banking application while following strict security and compliance requirements.
+- Managed and supported **Amazon EKS clusters**, including cluster upgrades and node AMI replacements.
+- Implemented **Karpenter** for dynamic Kubernetes node provisioning and cost-efficient scaling.
+- Worked on EKS version upgrades from **v1.26 to v1.32**.
+- Remediated vulnerability assessment and penetration testing findings within defined timelines.
+- Managed application secrets using **AWS Secrets Manager**.
+- Built and maintained **Jenkins CI/CD pipelines** for production deployments.
+- Implemented automated rollback mechanisms for deployments.
+- Managed **Redis clusters**, including cluster creation, scaling and replica management.
+- Monitored application and API performance using **Dynatrace and CloudWatch**.
+- Created dashboards for tracking response time, API failures and application health.
+- Worked with AWS services including **EC2, Lambda, S3, EBS, EFS, RDS, VPC, Route 53, CloudFront, ELB and API Gateway**.
+- Used **IAM, KMS and CloudTrail** to implement and maintain security controls.
+- Participated in **SRE practices, incident management and performance optimization**.
+- Automated infrastructure and deployments using **CloudFormation, Jenkins, Docker and Shell scripting**.
+
+---
+
+### AWS / DevOps Engineer — Manufyn Pvt Ltd
+
+**April 2025 – Present**
+
+**Project:** Insurance Transaction CMS
+
+Working on an insurance application that provides policy information, benefits, terms and conditions, and insurance schemes across various insurance categories.
+
+### Key Responsibilities
+
+- Created automated **CI/CD build and deployment infrastructure** for multiple projects.
+- Developed automation scripts using **Jenkins, Docker, Maven, Python and Bash**.
+- Managed Ubuntu Linux infrastructure using **Chef automation**.
+- Developed Chef recipes, shell scripts, deployment tools and monitoring checks.
+- Implemented Continuous Delivery pipelines using **Docker, Jenkins and GitHub**.
+- Created and managed Docker images and customized Docker containers.
+- Worked with Docker Hub for pulling, building, running and pushing container images.
+- Managed Dockerfiles, container ports, volumes and container lifecycle.
+- Automated AWS infrastructure components including **EC2, Security Groups, ELB, RDS and IAM**.
+- Worked with **AWS CloudFormation** for infrastructure automation.
+- Designed and deployed AWS solutions using **EC2, S3, EBS, ELB and Auto Scaling**.
+- Configured **CloudWatch alarms and notifications** for infrastructure monitoring.
+- Collaborated with developers and managers to troubleshoot deployment and environment issues.
+
+---
+
+## 🏆 Key Highlights
+
+- ☁️ Designed and managed AWS cloud infrastructure
+- 📉 Achieved approximately **30% cloud cost reduction**
+- 📈 Improved infrastructure reliability by approximately **20%**
+- ⚡ Optimized resource utilization by approximately **10%**
+- ☸️ Hands-on experience managing **Amazon EKS**
+- 🚀 Implemented **Karpenter** for Kubernetes node scaling
+- 🔄 Built and maintained **Jenkins CI/CD pipelines**
+- 🐳 Experienced with Docker containerization
+- 🔐 Worked with AWS security and compliance controls
+- 📊 Experienced in production monitoring and incident management
+
+---
+
+## 📜 Certifications
+
+- **AWS Cloud Essentials** — May 2026
+
+---
+
+## 🎓 Education
+
+### Bachelor of Engineering — Computer Engineering
+
+**Sinhgad Institute of Technology and Science**
+
+CGPA: **8.10** | 2023
+
+### Diploma — Computer Science
+
+**Pimpri Chinchwad Polytechnic**
+
+CGPA: **9.49** | 2020
+
+### SSC
+
+**New English School, Ahilyanagar**
+
+CGPA: **9.12** | 2017
+
+---
+
+## 🔥 Areas of Interest
+
+```text
+AWS Cloud Architecture
+DevOps Engineering
+Kubernetes & Amazon EKS
+CI/CD Automation
+Infrastructure as Code
+Cloud Security
+Site Reliability Engineering
+Containerization
+Cloud Cost Optimization
+Monitoring & Observability
